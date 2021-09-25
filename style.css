@@ -1,0 +1,17 @@
+body{
+    background-color: Green;
+    color:yellow;
+}
+.heading{
+    width:80%;
+    font-size: 22px;
+}
+.name_of_objects,#result_object_name,#result_object_accuracy{
+color:Black;
+}
+#Camera{
+    border:2px dashed firebrick;
+    width:350px;
+    height:300px;
+
+}
